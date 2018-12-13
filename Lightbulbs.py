@@ -1,5 +1,9 @@
 import random
 
+#Created by:
+#Sokratis Ousakof
+#for assisting in the lab Cumminication Circuits.
+
 #Lists
 answerList = {'a': '001' ,'b' : '010' ,'c' : '011' , 'd' : '100'}
 commandList = ['001','100','101','010','111']
